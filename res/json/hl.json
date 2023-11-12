@@ -1,0 +1,747 @@
+[
+  {
+    "hl": "af",
+    "en": "Afrikaans",
+    "ja": "アフリカーンス語"
+  },
+  {
+    "hl": "ak",
+    "en": "Akan",
+    "ja": "アカン語"
+  },
+  {
+    "hl": "sq",
+    "en": "Albanian",
+    "ja": "アルバニア語"
+  },
+  {
+    "hl": "am",
+    "en": "Amharic",
+    "ja": "アムハラ語"
+  },
+  {
+    "hl": "ar",
+    "en": "Arabic",
+    "ja": "アラビア語"
+  },
+  {
+    "hl": "hy",
+    "en": "Armenian",
+    "ja": "アルメニア語"
+  },
+  {
+    "hl": "az",
+    "en": "Azerbaijani",
+    "ja": "アゼルバイジャン語"
+  },
+  {
+    "hl": "eu",
+    "en": "Basque",
+    "ja": "バスク語"
+  },
+  {
+    "hl": "be",
+    "en": "Belarusian",
+    "ja": "ベラルーシ語"
+  },
+  {
+    "hl": "bem",
+    "en": "Bemba",
+    "ja": "ベンバ語"
+  },
+  {
+    "hl": "bn",
+    "en": "Bengali",
+    "ja": "ベンガル語"
+  },
+  {
+    "hl": "bh",
+    "en": "Bihari",
+    "ja": "ビハール語"
+  },
+  {
+    "hl": "bs",
+    "en": "Bosnian",
+    "ja": "ボスニア語"
+  },
+  {
+    "hl": "br",
+    "en": "Breton",
+    "ja": "ブルトン語"
+  },
+  {
+    "hl": "bg",
+    "en": "Bulgarian",
+    "ja": "ブルガリア語"
+  },
+  {
+    "hl": "km",
+    "en": "Cambodian",
+    "ja": "カンボジア語"
+  },
+  {
+    "hl": "ca",
+    "en": "Catalan",
+    "ja": "カタルーニャ語"
+  },
+  {
+    "hl": "chr",
+    "en": "Cherokee",
+    "ja": "チェロキー語"
+  },
+  {
+    "hl": "ny",
+    "en": "Chichewa",
+    "ja": "チェワ語"
+  },
+  {
+    "hl": "zh-CN",
+    "en": "Chinese (Simplified)",
+    "ja": "中国語（簡体字）"
+  },
+  {
+    "hl": "zh-TW",
+    "en": "Chinese (Traditional)",
+    "ja": "中国語（繁体字）"
+  },
+  {
+    "hl": "co",
+    "en": "Corsican",
+    "ja": "コルシカ語"
+  },
+  {
+    "hl": "hr",
+    "en": "Croatian",
+    "ja": "クロアチア語"
+  },
+  {
+    "hl": "cs",
+    "en": "Czech",
+    "ja": "チェコ語"
+  },
+  {
+    "hl": "da",
+    "en": "Danish",
+    "ja": "デンマーク語"
+  },
+  {
+    "hl": "nl",
+    "en": "Dutch",
+    "ja": "オランダ語"
+  },
+  {
+    "hl": "en",
+    "en": "English",
+    "ja": "英語"
+  },
+  {
+    "hl": "eo",
+    "en": "Esperanto",
+    "ja": "エスペラント語"
+  },
+  {
+    "hl": "et",
+    "en": "Estonian",
+    "ja": "エストニア語"
+  },
+  {
+    "hl": "ee",
+    "en": "Ewe",
+    "ja": "エウェ語"
+  },
+  {
+    "hl": "fo",
+    "en": "Faroese",
+    "ja": "フェロー語"
+  },
+  {
+    "hl": "tl",
+    "en": "Filipino",
+    "ja": "フィリピン語"
+  },
+  {
+    "hl": "fi",
+    "en": "Finnish",
+    "ja": "フィンランド語"
+  },
+  {
+    "hl": "fr",
+    "en": "French",
+    "ja": "フランス語"
+  },
+  {
+    "hl": "fy",
+    "en": "Frisian",
+    "ja": "フリジア語"
+  },
+  {
+    "hl": "gaa",
+    "en": "Ga",
+    "ja": "ガ語"
+  },
+  {
+    "hl": "gl",
+    "en": "Galician",
+    "ja": "ガリシア語"
+  },
+  {
+    "hl": "ka",
+    "en": "Georgian",
+    "ja": "ジョージア語"
+  },
+  {
+    "hl": "de",
+    "en": "German",
+    "ja": "ドイツ語"
+  },
+  {
+    "hl": "el",
+    "en": "Greek",
+    "ja": "ギリシャ語"
+  },
+  {
+    "hl": "gn",
+    "en": "Guarani",
+    "ja": "グアラニー語"
+  },
+  {
+    "hl": "gu",
+    "en": "Gujarati",
+    "ja": "グジャラート語"
+  },
+  {
+    "hl": "ht",
+    "en": "Haitian Creole",
+    "ja": "ハイチ・クレオール語"
+  },
+  {
+    "hl": "ha",
+    "en": "Hausa",
+    "ja": "ハウサ語"
+  },
+  {
+    "hl": "haw",
+    "en": "Hawaiian",
+    "ja": "ハワイ語"
+  },
+  {
+    "hl": "iw",
+    "en": "Hebrew",
+    "ja": "ヘブライ語"
+  },
+  {
+    "hl": "hi",
+    "en": "Hindi",
+    "ja": "ヒンディー語"
+  },
+  {
+    "hl": "hu",
+    "en": "Hungarian",
+    "ja": "ハンガリー語"
+  },
+  {
+    "hl": "is",
+    "en": "Icelandic",
+    "ja": "アイスランド語"
+  },
+  {
+    "hl": "ig",
+    "en": "Igbo",
+    "ja": "イボ語"
+  },
+  {
+    "hl": "id",
+    "en": "Indonesian",
+    "ja": "インドネシア語"
+  },
+  {
+    "hl": "ia",
+    "en": "Interlingua",
+    "ja": "インターリングア"
+  },
+  {
+    "hl": "ga",
+    "en": "Irish",
+    "ja": "アイルランド語"
+  },
+  {
+    "hl": "it",
+    "en": "Italian",
+    "ja": "イタリア語"
+  },
+  {
+    "hl": "ja",
+    "en": "Japanese",
+    "ja": "日本語"
+  },
+  {
+    "hl": "jw",
+    "en": "Javanese",
+    "ja": "ジャワ語"
+  },
+  {
+    "hl": "kn",
+    "en": "Kannada",
+    "ja": "カンナダ語"
+  },
+  {
+    "hl": "kk",
+    "en": "Kazakh",
+    "ja": "カザフスタン語"
+  },
+  {
+    "hl": "rw",
+    "en": "Kinyarwanda",
+    "ja": "ルワンダ語"
+  },
+  {
+    "hl": "rn",
+    "en": "Kirundi",
+    "ja": "ルンディ語"
+  },
+  {
+    "hl": "kg",
+    "en": "Kongo",
+    "ja": "コンゴ語"
+  },
+  {
+    "hl": "ko",
+    "en": "Korean",
+    "ja": "韓国語"
+  },
+  {
+    "hl": "kri",
+    "en": "Krio (Sierra Leone)",
+    "ja": "クリオ語"
+  },
+  {
+    "hl": "ku",
+    "en": "Kurdish",
+    "ja": "クルド語"
+  },
+  {
+    "hl": "ckb",
+    "en": "Kurdish (Soranî)",
+    "ja": "クルド語 (ソラニー)"
+  },
+  {
+    "hl": "ky",
+    "en": "Kyrgyz",
+    "ja": "キルギス語"
+  },
+  {
+    "hl": "lo",
+    "en": "Laothian",
+    "ja": "ラオス語"
+  },
+  {
+    "hl": "la",
+    "en": "Latin",
+    "ja": "ラテン語"
+  },
+  {
+    "hl": "lv",
+    "en": "Latvian",
+    "ja": "ラトビア語"
+  },
+  {
+    "hl": "ln",
+    "en": "Lingala",
+    "ja": "リンガラ語"
+  },
+  {
+    "hl": "lt",
+    "en": "Lithuanian",
+    "ja": "リトアニア語"
+  },
+  {
+    "hl": "loz",
+    "en": "Lozi",
+    "ja": "ロジ語"
+  },
+  {
+    "hl": "lg",
+    "en": "Luganda",
+    "ja": "ルガンダ語"
+  },
+  {
+    "hl": "ach",
+    "en": "Luo",
+    "ja": "ルオ語"
+  },
+  {
+    "hl": "mk",
+    "en": "Macedonian",
+    "ja": "マケドニア語"
+  },
+  {
+    "hl": "mg",
+    "en": "Malagasy",
+    "ja": "マダガスカル語"
+  },
+  {
+    "hl": "ms",
+    "en": "Malay",
+    "ja": "マレー語"
+  },
+  {
+    "hl": "ml",
+    "en": "Malayalam",
+    "ja": "マラヤーラム語"
+  },
+  {
+    "hl": "mt",
+    "en": "Maltese",
+    "ja": "マルタ語"
+  },
+  {
+    "hl": "mi",
+    "en": "Maori",
+    "ja": "マオリ語"
+  },
+  {
+    "hl": "mr",
+    "en": "Marathi",
+    "ja": "マラーティー語"
+  },
+  {
+    "hl": "mfe",
+    "en": "Mauritian Creole",
+    "ja": "モーリシャス・クレオール語"
+  },
+  {
+    "hl": "mo",
+    "en": "Moldavian",
+    "ja": "モルダビア語"
+  },
+  {
+    "hl": "mn",
+    "en": "Mongolian",
+    "ja": "モンゴル語"
+  },
+  {
+    "hl": "sr-ME",
+    "en": "Montenegrin",
+    "ja": "モンテネグロ語"
+  },
+  {
+    "hl": "ne",
+    "en": "Nepali",
+    "ja": "ネパール語"
+  },
+  {
+    "hl": "pcm",
+    "en": "Nigerian Pidgin",
+    "ja": "ナイジェリア・ピジン語"
+  },
+  {
+    "hl": "nso",
+    "en": "Northern Sotho",
+    "ja": "北ソト語"
+  },
+  {
+    "hl": "no",
+    "en": "Norwegian",
+    "ja": "ノルウェー語"
+  },
+  {
+    "hl": "nn",
+    "en": "Norwegian (Nynorsk)",
+    "ja": "ノルウェー語 (ニーノシュク)"
+  },
+  {
+    "hl": "oc",
+    "en": "Occitan",
+    "ja": "オック語"
+  },
+  {
+    "hl": "or",
+    "en": "Oriya",
+    "ja": "オリヤー語"
+  },
+  {
+    "hl": "om",
+    "en": "Oromo",
+    "ja": "オロモ語"
+  },
+  {
+    "hl": "ps",
+    "en": "Pashto",
+    "ja": "パシュトゥー語"
+  },
+  {
+    "hl": "fa",
+    "en": "Persian",
+    "ja": "ペルシア語"
+  },
+  {
+    "hl": "pl",
+    "en": "Polish",
+    "ja": "ポーランド語"
+  },
+  {
+    "hl": "pt-BR",
+    "en": "Portuguese (Brazil)",
+    "ja": "ポルトガル語 (ブラジル)"
+  },
+  {
+    "hl": "pt-PT",
+    "en": "Portuguese (Portugal)",
+    "ja": "ポルトガル語 (ポルトガル)"
+  },
+  {
+    "hl": "pa",
+    "en": "Punjabi",
+    "ja": "パンジャブ語"
+  },
+  {
+    "hl": "qu",
+    "en": "Quechua",
+    "ja": "ケチュア語"
+  },
+  {
+    "hl": "ro",
+    "en": "Romanian",
+    "ja": "ルーマニア語"
+  },
+  {
+    "hl": "rm",
+    "en": "Romansh",
+    "ja": "ロマンシュ語"
+  },
+  {
+    "hl": "nyn",
+    "en": "Runyakitara",
+    "ja": "ルンヤキタラ語"
+  },
+  {
+    "hl": "ru",
+    "en": "Russian",
+    "ja": "ロシア語"
+  },
+  {
+    "hl": "gd",
+    "en": "Scots Gaelic",
+    "ja": "スコットランド・ゲール語"
+  },
+  {
+    "hl": "sr",
+    "en": "Serbian",
+    "ja": "セルビア語"
+  },
+  {
+    "hl": "sh",
+    "en": "Serbo-Croatian",
+    "ja": "セルボ・クロアチア語"
+  },
+  {
+    "hl": "st",
+    "en": "Sesotho",
+    "ja": "ソト語"
+  },
+  {
+    "hl": "tn",
+    "en": "Setswana",
+    "ja": "ツワナ語"
+  },
+  {
+    "hl": "crs",
+    "en": "Seychellois Creole",
+    "ja": "セーシェル・クレオール語"
+  },
+  {
+    "hl": "sn",
+    "en": "Shona",
+    "ja": "ショナ語"
+  },
+  {
+    "hl": "sd",
+    "en": "Sindhi",
+    "ja": "シンド語"
+  },
+  {
+    "hl": "si",
+    "en": "Sinhalese",
+    "ja": "シンハラ語"
+  },
+  {
+    "hl": "sk",
+    "en": "Slovak",
+    "ja": "スロバキア語"
+  },
+  {
+    "hl": "sl",
+    "en": "Slovenian",
+    "ja": "スロベニア語"
+  },
+  {
+    "hl": "so",
+    "en": "Somali",
+    "ja": "ソマリ語"
+  },
+  {
+    "hl": "es",
+    "en": "Spanish",
+    "ja": "スペイン語"
+  },
+  {
+    "hl": "es-419",
+    "en": "Spanish (Latin American)",
+    "ja": "スペイン語 (ラテンアメリカ)"
+  },
+  {
+    "hl": "su",
+    "en": "Sundanese",
+    "ja": "スンダ語"
+  },
+  {
+    "hl": "sw",
+    "en": "Swahili",
+    "ja": "スワヒリ語"
+  },
+  {
+    "hl": "sv",
+    "en": "Swedish",
+    "ja": "スウェーデン語"
+  },
+  {
+    "hl": "tg",
+    "en": "Tajik",
+    "ja": "タジク語"
+  },
+  {
+    "hl": "ta",
+    "en": "Tamil",
+    "ja": "タミル語"
+  },
+  {
+    "hl": "tt",
+    "en": "Tatar",
+    "ja": "タタール語"
+  },
+  {
+    "hl": "te",
+    "en": "Telugu",
+    "ja": "テルグ語"
+  },
+  {
+    "hl": "th",
+    "en": "Thai",
+    "ja": "タイ語"
+  },
+  {
+    "hl": "ti",
+    "en": "Tigrinya",
+    "ja": "ティグリニア語"
+  },
+  {
+    "hl": "to",
+    "en": "Tonga",
+    "ja": "トンガ語"
+  },
+  {
+    "hl": "lua",
+    "en": "Tshiluba",
+    "ja": "ルバ語"
+  },
+  {
+    "hl": "tum",
+    "en": "Tumbuka",
+    "ja": "トゥンブカ語"
+  },
+  {
+    "hl": "tr",
+    "en": "Turkish",
+    "ja": "トルコ語"
+  },
+  {
+    "hl": "tk",
+    "en": "Turkmen",
+    "ja": "トルクメン語"
+  },
+  {
+    "hl": "tw",
+    "en": "Twi",
+    "ja": "トウィ語"
+  },
+  {
+    "hl": "ug",
+    "en": "Uighur",
+    "ja": "ウイグル語"
+  },
+  {
+    "hl": "uk",
+    "en": "Ukrainian",
+    "ja": "ウクライナ語"
+  },
+  {
+    "hl": "ur",
+    "en": "Urdu",
+    "ja": "ウルドゥー語"
+  },
+  {
+    "hl": "uz",
+    "en": "Uzbek",
+    "ja": "ウズベク語"
+  },
+  {
+    "hl": "vi",
+    "en": "Vietnamese",
+    "ja": "ベトナム語"
+  },
+  {
+    "hl": "cy",
+    "en": "Welsh",
+    "ja": "ウェールズ語"
+  },
+  {
+    "hl": "wo",
+    "en": "Wolof",
+    "ja": "ウォロフ語"
+  },
+  {
+    "hl": "xh",
+    "en": "Xhosa",
+    "ja": "コサ語"
+  },
+  {
+    "hl": "yi",
+    "en": "Yiddish",
+    "ja": "イディッシュ語"
+  },
+  {
+    "hl": "yo",
+    "en": "Yoruba",
+    "ja": "ヨルバ語"
+  },
+  {
+    "hl": "zu",
+    "en": "Zulu",
+    "ja": "ズールー語"
+  },
+  {
+    "hl": "xx-bork",
+    "en": "Bork, bork, bork!",
+    "ja": "ぶっ壊れ"
+  },
+  {
+    "hl": "xx-elmer",
+    "en": "Elmer Fudd",
+    "ja": "エルマー・ファッド"
+  },
+  {
+    "hl": "xx-hacker",
+    "en": "Hacker",
+    "ja": "ハッカー"
+  },
+  {
+    "hl": "xx-klingon",
+    "en": "Klingon",
+    "ja": "クリンゴン語（スタートレック）"
+  },
+  {
+    "hl": "xx-pirate",
+    "en": "Pirate",
+    "ja": "海賊"
+  }
+]

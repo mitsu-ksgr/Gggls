@@ -1,0 +1,232 @@
+[
+  {
+    "lr": "af",
+    "en": "Afrikaans",
+    "ja": "アフリカーンス語"
+  },
+  {
+    "lr": "ar",
+    "en": "Arabic",
+    "ja": "アラビア語"
+  },
+  {
+    "lr": "hy",
+    "en": "Armenian",
+    "ja": "アルメニア語"
+  },
+  {
+    "lr": "be",
+    "en": "Belarusian",
+    "ja": "ベラルーシ語"
+  },
+  {
+    "lr": "bg",
+    "en": "Bulgarian",
+    "ja": "ブルガリア語"
+  },
+  {
+    "lr": "ca",
+    "en": "Catalan",
+    "ja": "カタルーニャ語"
+  },
+  {
+    "lr": "zh-CN",
+    "en": "Chinese (Simplified)",
+    "ja": "中国語（簡体字）"
+  },
+  {
+    "lr": "zh-TW",
+    "en": "Chinese (Traditional)",
+    "ja": "中国語（繁体字）"
+  },
+  {
+    "lr": "hr",
+    "en": "Croatian",
+    "ja": "クロアチア語"
+  },
+  {
+    "lr": "cs",
+    "en": "Czech",
+    "ja": "チェコ語"
+  },
+  {
+    "lr": "da",
+    "en": "Danish",
+    "ja": "デンマーク語"
+  },
+  {
+    "lr": "nl",
+    "en": "Dutch",
+    "ja": "オランダ語"
+  },
+  {
+    "lr": "en",
+    "en": "English",
+    "ja": "英語"
+  },
+  {
+    "lr": "eo",
+    "en": "Esperanto",
+    "ja": "エスペラント語"
+  },
+  {
+    "lr": "et",
+    "en": "Estonian",
+    "ja": "エストニア語"
+  },
+  {
+    "lr": "tl",
+    "en": "Filipino",
+    "ja": "フィリピン語"
+  },
+  {
+    "lr": "fi",
+    "en": "Finnish",
+    "ja": "フィンランド語"
+  },
+  {
+    "lr": "fr",
+    "en": "French",
+    "ja": "フランス語"
+  },
+  {
+    "lr": "de",
+    "en": "German",
+    "ja": "ドイツ語"
+  },
+  {
+    "lr": "el",
+    "en": "Greek",
+    "ja": "ギリシャ語"
+  },
+  {
+    "lr": "iw",
+    "en": "Hebrew",
+    "ja": "ヘブライ語"
+  },
+  {
+    "lr": "hi",
+    "en": "Hindi",
+    "ja": "ヒンディー語"
+  },
+  {
+    "lr": "hu",
+    "en": "Hungarian",
+    "ja": "ハンガリー語"
+  },
+  {
+    "lr": "is",
+    "en": "Icelandic",
+    "ja": "アイスランド語"
+  },
+  {
+    "lr": "id",
+    "en": "Indonesian",
+    "ja": "インドネシア語"
+  },
+  {
+    "lr": "it",
+    "en": "Italian",
+    "ja": "イタリア語"
+  },
+  {
+    "lr": "ja",
+    "en": "Japanese",
+    "ja": "日本語"
+  },
+  {
+    "lr": "ko",
+    "en": "Korean",
+    "ja": "韓国語"
+  },
+  {
+    "lr": "lv",
+    "en": "Latvian",
+    "ja": "ラトビア語"
+  },
+  {
+    "lr": "lt",
+    "en": "Lithuanian",
+    "ja": "リトアニア語"
+  },
+  {
+    "lr": "no",
+    "en": "Norwegian",
+    "ja": "ノルウェー語"
+  },
+  {
+    "lr": "fa",
+    "en": "Persian",
+    "ja": "ペルシア語"
+  },
+  {
+    "lr": "pl",
+    "en": "Polish",
+    "ja": "ポーランド語"
+  },
+  {
+    "lr": "pt",
+    "en": "Portuguese",
+    "ja": "ポルトガル語 "
+  },
+  {
+    "lr": "ro",
+    "en": "Romanian",
+    "ja": "ルーマニア語"
+  },
+  {
+    "lr": "ru",
+    "en": "Russian",
+    "ja": "ロシア語"
+  },
+  {
+    "lr": "sr",
+    "en": "Serbian",
+    "ja": "セルビア語"
+  },
+  {
+    "lr": "sk",
+    "en": "Slovak",
+    "ja": "スロバキア語"
+  },
+  {
+    "lr": "sl",
+    "en": "Slovenian",
+    "ja": "スロベニア語"
+  },
+  {
+    "lr": "es",
+    "en": "Spanish",
+    "ja": "スペイン語"
+  },
+  {
+    "lr": "sw",
+    "en": "Swahili",
+    "ja": "スワヒリ語"
+  },
+  {
+    "lr": "sv",
+    "en": "Swedish",
+    "ja": "スウェーデン語"
+  },
+  {
+    "lr": "th",
+    "en": "Thai",
+    "ja": "タイ語"
+  },
+  {
+    "lr": "tr",
+    "en": "Turkish",
+    "ja": "トルコ語"
+  },
+  {
+    "lr": "uk",
+    "en": "Ukrainian",
+    "ja": "ウクライナ語"
+  },
+  {
+    "lr": "vi",
+    "en": "Vietnamese",
+    "ja": "ベトナム語"
+  }
+]

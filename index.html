@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Gggls</title>
+
+  <link rel="stylesheet" href="./res/css/pico.classless.min.css">
+  <link rel="stylesheet" href="./res/css/style.css">
+</head>
+
+<body>
+  <main>
+    <hgroup>
+      <h1>Gggls</h1>
+      <h2>Google search by country / language.</h2>
+    </hgroup>
+
+    <article>
+      <input id="sw" name="sw" type="search" placeholder="Search">
+
+      <details>
+        <summary>Country / Language</summary>
+        <div>
+          <label for="gl">Country</label>
+          <select id="gl"><option value="">-</option></select>
+
+          <label for="lr">Search Language</label>
+          <select id="lr"><option value="">-</option></select>
+
+          <label for="hl">Interface Language</label>
+          <select id="hl"><option value="">-</option></select>
+
+          <div class="grid">
+            <button id="btn-reset" class="btn-reset">reset</button>
+            <button id="btn-en-us">en-US</button>
+            <button id="btn-ja-jp">ja-JP</button>
+            <button id="btn-fr-fr">fr-FR</button>
+            <button id="btn-id-id">id-ID</button>
+          </div>
+        </div>
+      </details>
+
+      <button id="ggl">google</button>
+    </article>
+  </main>
+
+  <footer>
+    <p>
+      <a href="https://github.com/mitsu-ksgr/gggls" target="_blank" rel="noreferrer">
+        mitsu-ksgr/gggls
+      </a>
+    </p>
+  </footer>
+
+  <script src="gggls.js"></script>
+</body>
+</html>

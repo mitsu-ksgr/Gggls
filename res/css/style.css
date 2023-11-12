@@ -1,0 +1,21 @@
+/**
+ *
+ */
+
+.grid {
+  display: flex;
+}
+
+.grid button {
+  width: auto;
+  margin-right: 50px;
+}
+
+select option {
+  font-family: monospace;
+}
+
+.btn-reset {
+  color: yellow;
+}
+
